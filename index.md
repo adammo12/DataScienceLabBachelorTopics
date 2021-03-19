@@ -1,4 +1,5 @@
-## Topics for Bachelor Theses   ![Logo](uibk-logo.2017.svg)
+![Logo](uibk-logo.2017.svg)
+## Topics for Bachelor Theses   
 
 ### Topic 1: Developing Interactive Website for Readability Assessment (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
 
