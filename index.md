@@ -2,7 +2,7 @@
 
 ### Topic 1: Developing Interactive Website for Readability Assessment
 
-
+Readability measurement estimates how easy is to read a given text. Highly readable texts are accessible to users of varying educational background, reading skills or ones with limited knowledge of foreign language. Readability measures have been developed since some time ago taking into consideration the length of sentences, numner of syllabes, grammatical and lexical complexity of text and so on. 
 
 
 
@@ -14,12 +14,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -30,7 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
