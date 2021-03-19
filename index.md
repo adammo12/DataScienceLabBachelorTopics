@@ -10,8 +10,12 @@ Prerequisites: basic knowledge of text processing
 ### Topic 2: Estimating Web Page Age (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
 
 
-### Topic 3: xxx (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
+### Topic 3: Designing Website for Image Age Estimation based on Age of Image Objects (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
 
+
+### Topic 4: Generating History-related Interactive Quizzes (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
+
+The objective of this topic is designing history-focused quiz generator for educational and entertaining objectives. Given a database of historical events in the form of short event descriptions, the task is to first generate a question for each event which is a valid and answerable question, using question generation tool based on transformers [link](https://github.com/patil-suraj/question_generation). Next, the system must generate a series of hints based on the actual answer to the created question and based on the received user answers. If user answers are incorrect the goal is to automatically provide hints which do not contain the ready answer but which help user come up with the answer. The hints should not too obvious but should lead the user to find the answer in small number of steps (few generated hints) by progressively revealing more data related to the answer. Hints will be generated using Wikipedia as knowledge base, as well as the original question, the correct answer and the sequence of user answers for previous hints.
 
 
 
