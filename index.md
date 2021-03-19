@@ -1,4 +1,4 @@
-## Topics for Bachelor Theses
+## Topics for Bachelor Theses   ![Logo](uibk-logo.2017.svg)
 
 ### Topic 1: Developing Interactive Website for Readability Assessment (Supervisor: Univ.-Prof. [Adam Jatowt](mailto: adam.jatowt@uibk.ac.at))
 
@@ -26,7 +26,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
