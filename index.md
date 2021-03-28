@@ -15,7 +15,7 @@ A significant number of old photographs including ones that are posted online do
 
 Prerequisites: knowledge of image processing and machine learning techniques, interest in history
 
-### Topic 3: Generating History-related Interactive Quizzes (Supervisor: Univ.-Prof. [Adam Jatowt](mailto:adam.jatowt@uibk.ac.at))
+### Topic 3: Automatically Generating History-related Interactive Quizzes (Supervisor: Univ.-Prof. [Adam Jatowt](mailto:adam.jatowt@uibk.ac.at))
 
 The objective of this topic is designing history-focused quiz generator for educational and entertaining objectives. Given a database of historical events in the form of short event descriptions, the task is to first generate a question for each event which is a valid and answerable question, using question generation, e.g., a tool based on transformers ([link](https://github.com/patil-suraj/question_generation)). Next, the system must generate a series of hints based on the correct answer to the created question and based on the received user answers, unless the user answer is correct. If the user answers are incorrect (which is expected), the goal is to automatically provide hints which do not contain the ready answer but which help the user come up with the correct answer. The hints should not be too obvious but should lead the user to find the answer in a small number of steps (few generated hints) by progressively revealing more data related to the answer. Hints could be generated using: the original question, the correct answer and the sequence of user-provided answers for the provided hints as an input as well as the Wikipedia as underlying knowledge base.
 
