@@ -5,7 +5,7 @@
 
 Readability measurement estimates how easy is to read a given text. Highly readable texts are accessible to users of varying educational background, reading skills or ones with limited knowledge of a given foreign language. Readability measures have been developed since some time ago taking into consideration the length of sentences, number of syllabes, grammatical and lexical complexity of text and so on. Recent measures use neural networks to determine readability scores of paragraphs or sentences. The objective of this topic is to develop an interactive tool which will take an input text either in the form of pdf, doc, txt or as pasted text content and will return a range of readability measures and lexical complexity estimates for the text, as well as, will highlight the text portions that are difficult to read according to a selected readability metric. This should enable end users get good overview of hpw difficult is the target text content from the perspective of several diverse metrics as well as understand which parts of the text may cause difficulties for readers. The working languages should be German or English, or both.
 
-Prerequisites: basic knowledge of text processing, interactive web site design
+Prerequisites: good knowledge of text processing and machine learning techniques, as well as interactive web site design
 
 ### Topic 2: Developing Dataset and Designing Approach for Image Age Estimation based on Image Objects (Supervisor: Univ.-Prof. [Adam Jatowt](mailto:adam.jatowt@uibk.ac.at) in collaboration with [Antoine Doucet](https://pageperso.univ-lr.fr/antoine.doucet/) at Univ. of La Rochelle)
 
@@ -13,18 +13,7 @@ A significant number of old photographs including ones that are posted online do
 
 [1] Shota Ashida, Adam Jatowt, Antoine Doucet, Masatoshi Yoshikawa: Determining Image Age with Rank-Consistent Ordinal Classification and Object-centered Ensemble, Proceedings of the 2nd ACM International Conference on Multimedia in Asia (ACM MM Asia 2020), Singapore, ACM DL (2021) ([paper](https://adammo12.github.io/DataScienceLabBachelorTopics/ACMMM-paper.pdf))
 
-Prerequisites: knowledge of image processing and machine learning techniques, interest in history
+Prerequisites: knowledge of image processing techniques, interest in history is a plus
 
-### Topic 3: Automatically Generating History-related Interactive Quizzes (Supervisor: Univ.-Prof. [Adam Jatowt](mailto:adam.jatowt@uibk.ac.at))
-
-The objective of this topic is designing history-focused quiz generator for educational and entertaining objectives. Given a database of historical events in the form of short event descriptions, the task is to first generate a question for each event which is a valid and answerable question, using question generation, e.g., a tool based on transformers ([link](https://github.com/patil-suraj/question_generation)). Next, the system must generate a series of hints based on the correct answer to the created question and based on the received user answers, unless the user answer is correct. If the user answers are incorrect (which is expected), the goal is to automatically provide hints which do not contain the ready answer but which help the user come up with the correct answer. The hints should not be too obvious but should lead the user to find the answer in a small number of steps (few generated hints) by progressively revealing more data related to the answer. Hints could be generated using: the original question, the correct answer and the sequence of user-provided answers for the provided hints as an input as well as the Wikipedia as underlying knowledge base.
-
-Prerequisites: knowledge of text processing techniques, and interest in history or education
-
-
-
-
-
-For more details on research in the data science lab check: [Homepage of Adam Jatowt](https://adammo12.github.io/adamjatowt/).
 
 
