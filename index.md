@@ -16,4 +16,4 @@ A significant number of old photographs including ones that are posted online do
 Prerequisites: knowledge of image processing techniques, interest in history is a plus
 
 
-
+More information can be found on the [Data Science's group page](https://ds-informatik.uibk.ac.at/).
